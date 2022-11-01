@@ -5,7 +5,7 @@
 #define NUMSTAGES 5
 #define FINITEDIFFRES 200
 
-#pragma warning(disable:4996)  //needed in VS2022 to stop security check error
+//#pragma warning(disable:4996)  //needed in VS2022 to stop security check error
 
 class LorenzDiffusion
 {
