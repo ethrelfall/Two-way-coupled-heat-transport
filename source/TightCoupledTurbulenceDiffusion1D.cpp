@@ -6,7 +6,7 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Two-way coupled Lorenz model and diffusion model.\n";
 
     //read parameters
     double rho, sigma, beta;  //Lorenz model parameters
